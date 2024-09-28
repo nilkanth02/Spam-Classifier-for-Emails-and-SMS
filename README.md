@@ -64,4 +64,4 @@ The classifier achieved an accuracy of **97%** on the test set, showcasing its e
 
 ---
 
-Feel free to clone, fork, or contribute to make this project even better! 😄
+Feel free to clone, fork or contribute to make this project even better! 😄

@@ -58,7 +58,7 @@ The classifier achieved an accuracy of **97%** on the test set, showcasing its e
 - **Nilkanth Ahire** - [LinkedIn](https://linkedin.com/in/nilkanthahire) | [GitHub](https://github.com/nilkanth02)
 
 
-## 🙏 Acknowledgments
+## 🙏 Acknowledgments:
 - Special thanks to the creators of the open-source dataset used.
 - Thanks to all contributors who have made the libraries used in this project open and free.
 
